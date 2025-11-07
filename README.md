@@ -36,7 +36,7 @@
 
   <!-- Typing animation for the name and roles (purple-themed) -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hershey+Doria;Full-stack+Developer+%E2%80%A2+Vue.js+%E2%80%A2+Django+%E2%80%A2+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Hershey+Doria;Full-Stack+Developer+%7C+Vue.js+%7C+Django+%7C+Python" alt="Typing SVG" />
   </p>
 
   <!-- Profile views badge with purple accent -->
