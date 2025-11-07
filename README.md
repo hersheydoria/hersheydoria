@@ -192,36 +192,23 @@ Personal portfolio showcasing my projects and skills.
   <strong style="font-size: 1.8em; color: #9D4EDD; letter-spacing: 1px;">GitHub Stats</strong>
 </p>
 
-<div align="center" style="margin: 30px 0;">
-  
-  <!-- Stats cards container with enhanced styling -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 30px auto; max-width: 1200px; padding: 0 15px;">
-    
-    <!-- GitHub Stats Card -->
-    <div style="border: 3px solid #9D4EDD; border-radius: 16px; padding: 30px 25px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.08), rgba(123, 44, 191, 0.05)); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(157, 78, 221, 0.1); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);">
-      <p style="color: #9D4EDD; font-weight: 900; font-size: 1.3em; margin-bottom: 20px; letter-spacing: 1px; text-transform: uppercase;">Overview</p>
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hersheydoria&show_icons=true&theme=highcontrast&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363D&border_radius=10" style="width: 100%; border-radius: 12px; transition: transform 0.4s ease; filter: drop-shadow(0 4px 12px rgba(157, 78, 221, 0.15));" />
-    </div>
+<div align="center">
 
-    <!-- Top Languages Card -->
-    <div style="border: 3px solid #7B2CBF; border-radius: 16px; padding: 30px 25px; background: linear-gradient(135deg, rgba(123, 44, 191, 0.08), rgba(111, 45, 189, 0.05)); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(123, 44, 191, 0.1); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);">
-      <p style="color: #7B2CBF; font-weight: 900; font-size: 1.3em; margin-bottom: 20px; letter-spacing: 1px; text-transform: uppercase;">Languages & Tools</p>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hersheydoria&layout=compact&theme=highcontrast&bg_color=0d1117&text_color=c9d1d9&border_color=30363D&border_radius=10" style="width: 100%; border-radius: 12px; transition: transform 0.4s ease; filter: drop-shadow(0 4px 12px rgba(123, 44, 191, 0.15));" />
-    </div>
+### Overview
 
-  </div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hersheydoria&show_icons=true&theme=highcontrast&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363D&border_radius=10)
 
-  <!-- Contribution Streak -->
-  <div style="border: 3px solid #9D4EDD; border-radius: 16px; padding: 30px 25px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.08), rgba(111, 45, 189, 0.05)); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(157, 78, 221, 0.1); margin: 25px auto; max-width: 1200px; transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);">
-    <p style="color: #9D4EDD; font-weight: 900; font-size: 1.3em; margin-bottom: 20px; letter-spacing: 1px; text-transform: uppercase;">Contribution Streak</p>
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=hersheydoria&theme=highcontrast&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9D4EDD&sideLabels=C9D1D9&dates=C9D1D9" style="width: 100%; border-radius: 12px; transition: transform 0.4s ease; filter: drop-shadow(0 4px 12px rgba(157, 78, 221, 0.15));" />
-  </div>
+### Languages & Tools
 
-  <!-- Activity Graph -->
-  <div style="border: 3px solid #7B2CBF; border-radius: 16px; padding: 30px 25px; background: linear-gradient(135deg, rgba(123, 44, 191, 0.08), rgba(157, 78, 221, 0.05)); backdrop-filter: blur(10px); box-shadow: 0 8px 32px rgba(123, 44, 191, 0.1); margin: 25px auto; max-width: 1200px; transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);">
-    <p style="color: #7B2CBF; font-weight: 900; font-size: 1.3em; margin-bottom: 20px; letter-spacing: 1px; text-transform: uppercase;">Contribution Activity</p>
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hersheydoria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF" style="width: 100%; border-radius: 12px; transition: transform 0.4s ease; filter: drop-shadow(0 4px 12px rgba(123, 44, 191, 0.15));" />
-  </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hersheydoria&layout=compact&theme=highcontrast&bg_color=0d1117&text_color=c9d1d9&border_color=30363D&border_radius=10)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hersheydoria&theme=highcontrast&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9D4EDD&sideLabels=C9D1D9&dates=C9D1D9)
+
+### Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hersheydoria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF)
 
 </div>
 
