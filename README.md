@@ -1,19 +1,69 @@
 <div align="center">
+  <!-- Animated purple gradient banner (SVG). GitHub supports inline SVG; animation uses SMIL which often renders on GitHub pages/readme viewers. -->
+  <svg width="100%" height="160" viewBox="0 0 1200 160" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hersheydoria banner">
+    <defs>
+      <linearGradient id="grad" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#7B2CBF">
+          <animate attributeName="stop-color" values="#7B2CBF;#9D4EDD;#6F2DBD;#7B2CBF" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#C084FC;#8A4CE6;#9D4EDD" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#5A189A">
+          <animate attributeName="stop-color" values="#5A189A;#3C096C;#5A189A" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+      <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="8" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="1200" height="160" fill="url(#grad)" filter="url(#softGlow)" />
+    <g fill="white" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-weight="800">
+      <text x="50%" y="54" text-anchor="middle" font-size="28">Hi there 👋 I'm Hersheydoria</text>
+      <text x="50%" y="102" text-anchor="middle" font-size="14" opacity="0.95">Full-stack developer • Vue.js • Django • Python</text>
+    </g>
+  </svg>
 
-# <span style="color:#9D4EDD; font-size: 2.5em; font-weight: 900;">Hi there 👋 I'm Hersheydoria</span>
+  <p align="center">
+    <i style="color:#EDE6FA; font-size: 1.05em; font-weight: 600;">
+      Building scalable web applications with a focus on clean code, UX, and performance 🚀
+    </i>
+  </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hersheydoria&style=flat-square&color=9D4EDD)
+  <!-- Typing animation for the name and roles (purple-themed) -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hersheydoria;Full-stack+Developer+%E2%80%A2+Vue.js+%E2%80%A2+Django+%E2%80%A2+Python" alt="Typing SVG" />
+  </p>
+
+  <!-- Profile views badge with purple accent -->
+  <p align="center">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hersheydoria&style=flat-square&color=9D4EDD" />
+  </p>
 
 </div>
 
-<p align="center">
-  <i style="color:#7B2CBF; font-size: 1.1em; font-weight: 600;">
-    A passionate full-stack developer with expertise in <b>Vue.js</b>, <b>Django</b>, and <b>Python</b>.<br/>
-    Building scalable web applications that solve real-world problems 🚀
-  </i>
-</p>
-
 ---
+
+<!-- Animated separator -->
+<div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="sepGrad1" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#7B2CBF">
+          <animate attributeName="stop-color" values="#7B2CBF;#9D4EDD;#7B2CBF" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#C084FC;#9D4EDD" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#sepGrad1)" opacity="0.18" />
+  </svg>
+</div>
 
 ## <span style="color:#9D4EDD;">🎯 About Me</span>
 
@@ -27,22 +77,50 @@
 
 ## <span style="color:#9D4EDD;">🛠️ Tech Stack</span>
 
+Here's a compact, purple-themed snapshot of the main stack — styled for clarity and visual consistency.
+
+<!-- Animated separator -->
+<div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="sepGrad2" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#7B2CBF;#9D4EDD" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#6F2DBD">
+          <animate attributeName="stop-color" values="#6F2DBD;#C084FC;#6F2DBD" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#sepGrad2)" opacity="0.18" />
+  </svg>
+</div>
+
 ### <span style="color:#7B2CBF;">Frontend</span>
-![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vue.js)
-![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=flat-square&logo=vite)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Latest-06B6D4?style=flat-square&logo=tailwind-css)
+
+<p>
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-3-9D4EDD?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-Latest-9D4EDD?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6+-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-Latest-9D4EDD?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ### <span style="color:#7B2CBF;">Backend</span>
-![Django](https://img.shields.io/badge/Django-Latest-092E20?style=flat-square&logo=django)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-336791?style=flat-square&logo=postgresql)
+
+<p>
+  <img alt="Django" src="https://img.shields.io/badge/Django-Latest-9D4EDD?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST-API-9D4EDD?style=for-the-badge&logo=rest&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-Latest-9D4EDD?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### <span style="color:#7B2CBF;">Tools & Others</span>
-![Git](https://img.shields.io/badge/Git-Latest-F05032?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/PHP-Latest-777BB4?style=flat-square&logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=flat-square&logo=node.js)
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-Latest-9D4EDD?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-Latest-9D4EDD?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-Latest-9D4EDD?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ---
 
