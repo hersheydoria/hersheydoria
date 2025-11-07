@@ -34,11 +34,14 @@
     </i>
   </p>
 
+<<<<<<< HEAD
   <!-- Typing animation for the name and roles (purple-themed) -->
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=9D4EDD&center=true&vCenter=true&width=700&lines=Hersheydoria;Full-stack+Developer+%E2%80%A2+Vue.js+%E2%80%A2+Django+%E2%80%A2+Python" alt="Typing SVG" />
   </p>
 
+=======
+>>>>>>> e387d5c8d415da0439047e2a37269a47a30a64b0
   <!-- Profile views badge with purple accent -->
   <p align="center">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hersheydoria&style=flat-square&color=9D4EDD" />
@@ -79,6 +82,7 @@
 
 Here's a compact, purple-themed snapshot of the main stack — styled for clarity and visual consistency.
 
+<<<<<<< HEAD
 <!-- Animated separator -->
 <div align="center">
   <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
@@ -96,6 +100,8 @@ Here's a compact, purple-themed snapshot of the main stack — styled for clarit
   </svg>
 </div>
 
+=======
+>>>>>>> e387d5c8d415da0439047e2a37269a47a30a64b0
 ### <span style="color:#7B2CBF;">Frontend</span>
 
 <p>
