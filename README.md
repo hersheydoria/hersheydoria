@@ -65,17 +65,17 @@
   </svg>
 </div>
 
-## <span style="color:#9D4EDD;">🎯 About Me</span>
+## <span style="color:#9D4EDD;">About Me</span>
 
-- 🔭 Currently working on full-stack web applications
-- 💻 Proficient in **Vue.js 3**, **Django REST API**, **Python**, **PHP**, **JavaScript**
-- 🌱 Always learning new technologies and best practices
-- 💡 Passionate about clean code, system design, and user experience
-- 📍 Building solutions for disaster management, educational platforms, and more
+- Currently working on full-stack web applications
+- Proficient in **Vue.js 3**, **Django REST API**, **Python**, **PHP**, **JavaScript**
+- Always learning new technologies and best practices
+- Passionate about clean code, system design, and user experience
+- Building solutions for disaster management, educational platforms, and more
 
 ---
 
-## <span style="color:#9D4EDD;">🛠️ Tech Stack</span>
+## <span style="color:#9D4EDD;">Tech Stack</span>
 
 Here's a compact, purple-themed snapshot of the main stack — styled for clarity and visual consistency.
 
@@ -124,9 +124,26 @@ Here's a compact, purple-themed snapshot of the main stack — styled for clarit
 
 ---
 
-## <span style="color:#9D4EDD;">📚 Featured Projects</span>
+## <span style="color:#9D4EDD;">Featured Projects</span>
 
-### 🐾 <span style="color:#7B2CBF;">[PetTrackCare](https://github.com/hersheydoria/pettrackcare)</span>
+<!-- Animated project grid separator -->
+<div align="center">
+  <svg width="100%" height="6" viewBox="0 0 1200 6" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="projGrad" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#6F2DBD">
+          <animate attributeName="stop-color" values="#6F2DBD;#9D4EDD;#6F2DBD" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#C084FC">
+          <animate attributeName="stop-color" values="#C084FC;#7B2CBF;#C084FC" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="6" fill="url(#projGrad)" opacity="0.2" />
+  </svg>
+</div>
+
+### <span style="color:#7B2CBF;">[PetTrackCare](https://github.com/hersheydoria/pettrackcare)</span>
 A comprehensive pet care management and tracking system for pet owners and veterinarians.
 
 **Features:**
@@ -140,7 +157,7 @@ A comprehensive pet care management and tracking system for pet owners and veter
 
 ---
 
-### 🐾 <span style="color:#7B2CBF;">[The Ethogram - Animal Welfare Blog](https://github.com/hersheydoria/the-ethogram)</span>
+### <span style="color:#7B2CBF;">[The Ethogram - Animal Welfare Blog](https://github.com/hersheydoria/the-ethogram)</span>
 A modern, responsive blog website dedicated to animal welfare for dogs and cats.
 
 **Features:**
@@ -153,14 +170,14 @@ A modern, responsive blog website dedicated to animal welfare for dogs and cats.
 
 ---
 
-### 🎓 <span style="color:#7B2CBF;">[Student Violation System](https://github.com/hersheydoria/studentviolation)</span>
+### <span style="color:#7B2CBF;">[Student Violation System](https://github.com/hersheydoria/studentviolation)</span>
 An educational platform for managing student conduct and violations.
 
 **Tech Stack:** Vue.js 3, Vite, Django
 
 ---
 
-### 🚨 <span style="color:#7B2CBF;">[DisasterWatch](https://github.com/hersheydoria/disasterwatch)</span>
+### <span style="color:#7B2CBF;">[DisasterWatch](https://github.com/hersheydoria/disasterwatch)</span>
 A comprehensive disaster management and earthquake tracking system with real-time alerts and shelter management.
 
 **Features:**
@@ -174,43 +191,134 @@ A comprehensive disaster management and earthquake tracking system with real-tim
 
 ---
 
-### 👤 <span style="color:#7B2CBF;">[Portfolio Website](https://github.com/hersheydoria/hersheydoria.github.io)</span>
+### <span style="color:#7B2CBF;">[Portfolio Website](https://github.com/hersheydoria/hersheydoria.github.io)</span>
 Personal portfolio showcasing my projects and skills.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
-## <span style="color:#9D4EDD;">📊 GitHub Stats</span>
-
+<!-- Animated stats separator -->
 <div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="statGrad" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#6F2DBD;#9D4EDD" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#7B2CBF">
+          <animate attributeName="stop-color" values="#7B2CBF;#C084FC;#7B2CBF" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#statGrad)" opacity="0.2" />
+  </svg>
+</div>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hersheydoria&show_icons=true&theme=highcontrast&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363D&border_radius=10)
+## <span style="color:#9D4EDD;">GitHub Stats</span>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hersheydoria&layout=compact&theme=highcontrast&bg_color=0d1117&text_color=c9d1d9&border_color=30363D&border_radius=10)
+<div align="center" style="margin: 20px 0;">
+  
+  <!-- Stats cards container with subtle animation -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+    <!-- GitHub Stats Card -->
+    <div style="border: 2px solid #9D4EDD; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.05), rgba(123, 44, 191, 0.05)); flex: 1; min-width: 350px; transition: all 0.3s ease;">
+      <p style="color: #9D4EDD; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">Overview</p>
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hersheydoria&show_icons=true&theme=highcontrast&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363D&border_radius=10" style="width: 100%; border-radius: 8px; transition: transform 0.3s ease;" />
+    </div>
+
+    <!-- Top Languages Card -->
+    <div style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(123, 44, 191, 0.05), rgba(111, 45, 189, 0.05)); flex: 1; min-width: 350px; transition: all 0.3s ease;">
+      <p style="color: #7B2CBF; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">Languages & Tools</p>
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hersheydoria&layout=compact&theme=highcontrast&bg_color=0d1117&text_color=c9d1d9&border_color=30363D&border_radius=10" style="width: 100%; border-radius: 8px; transition: transform 0.3s ease;" />
+    </div>
+  </div>
+
+  <!-- Contribution Streak -->
+  <div style="border: 2px solid #9D4EDD; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(157, 78, 221, 0.05), rgba(111, 45, 189, 0.05)); margin: 20px 0; transition: all 0.3s ease;">
+    <p style="color: #9D4EDD; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">Contribution Streak</p>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=hersheydoria&theme=highcontrast&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9D4EDD&sideLabels=C9D1D9&dates=C9D1D9" style="width: 100%; border-radius: 8px; transition: transform 0.3s ease;" />
+  </div>
+
+  <!-- Activity Graph -->
+  <div style="border: 2px solid #7B2CBF; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, rgba(123, 44, 191, 0.05), rgba(157, 78, 221, 0.05)); margin: 20px 0; transition: all 0.3s ease;">
+    <p style="color: #7B2CBF; font-weight: bold; font-size: 1.1em; margin-bottom: 15px;">Contribution Activity</p>
+    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hersheydoria&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF" style="width: 100%; border-radius: 8px; transition: transform 0.3s ease;" />
+  </div>
 
 </div>
 
 ---
 
-## <span style="color:#9D4EDD;">🤝 Let's Connect</span>
+<!-- Animated connect separator -->
+<div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="connectGrad" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#7B2CBF">
+          <animate attributeName="stop-color" values="#7B2CBF;#9D4EDD;#7B2CBF" dur="5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#6F2DBD">
+          <animate attributeName="stop-color" values="#6F2DBD;#C084FC;#6F2DBD" dur="5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#connectGrad)" opacity="0.18" />
+  </svg>
+</div>
 
-- 💼 **GitHub**: [@hersheydoria](https://github.com/hersheydoria)
-- 🌐 **Portfolio**: [My Portfolio](https://hersheydoria.github.io)
-- 📧 **Email**: Feel free to reach out for collaboration or opportunities
+## <span style="color:#9D4EDD;">Let's Connect</span>
+
+- **GitHub**: [@hersheydoria](https://github.com/hersheydoria)
+- **Portfolio**: [My Portfolio](https://hersheydoria.github.io)
+- **Email**: Feel free to reach out for collaboration or opportunities
 
 ---
 
-## <span style="color:#9D4EDD;">💬 What I'm Currently Doing</span>
+<!-- Animated doing separator -->
+<div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="doingGrad" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#C084FC">
+          <animate attributeName="stop-color" values="#C084FC;#7B2CBF;#C084FC" dur="4.5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#6F2DBD;#9D4EDD" dur="4.5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#doingGrad)" opacity="0.2" />
+  </svg>
+</div>
 
-- 🔨 Building scalable web applications with modern technologies
-- 📖 Contributing to open-source projects
-- 💡 Exploring machine learning and data science
-- 🎨 Improving UI/UX design skills
+## <span style="color:#9D4EDD;">What I'm Currently Doing</span>
+
+- Building scalable web applications with modern technologies
+- Contributing to open-source projects
+- Exploring machine learning and data science
+- Improving UI/UX design skills
 
 ---
 
-## <span style="color:#9D4EDD;">🎓 Always Learning</span>
+<!-- Animated learning separator -->
+<div align="center">
+  <svg width="100%" height="8" viewBox="0 0 1200 8" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <defs>
+      <linearGradient id="learnGrad" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#6F2DBD">
+          <animate attributeName="stop-color" values="#6F2DBD;#C084FC;#6F2DBD" dur="5.5s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#9D4EDD">
+          <animate attributeName="stop-color" values="#9D4EDD;#7B2CBF;#9D4EDD" dur="5.5s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="8" fill="url(#learnGrad)" opacity="0.18" />
+  </svg>
+</div>
+
+## <span style="color:#9D4EDD;">Always Learning</span>
 
 I'm committed to continuous learning and staying updated with the latest technologies. Currently exploring:
 - Advanced Django patterns and optimization
